@@ -19,7 +19,7 @@ public class Radio {
         fmFrequency = fm;
     }
 
-    public int getFmFrequency(){
+    public double getFmFrequency(){
         return fmFrequency;
     }
 
